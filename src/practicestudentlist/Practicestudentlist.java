@@ -28,6 +28,8 @@ public class Practicestudentlist {
             System.out.println(list[i].getName()+list[i].getAge()); 
                 System.out.println("Treeesa");
               System.out.println("Last Name Saju");
+                System.out.println("TreeFF");
+             
         }
         
         
