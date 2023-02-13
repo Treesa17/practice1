@@ -26,7 +26,7 @@ public class Practicestudentlist {
         list[1]=s3;
         for(int i=0;i<list.length;i++){
             System.out.println(list[i].getName()+list[i].getAge()); 
-                
+                System.out.println("Treesa Saju");
         }
         
         
